@@ -4,7 +4,6 @@ const DEFAULT_LEADERBOARD = [
     { name: "Kanye West", level: 4, pts: 850 },
     { name: "Justin Bieber", level: 3, pts: 600 },
     { name: "Steve from Minecraft", level: 2, pts: 350 },
-    { name: "Igilik Altair", level: 1, pts: 0 }
 ];
 
 // Состояние приложения
